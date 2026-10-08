@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Счетчик Слов</string>
+    <string name="hint_input_text">Введите текст здесь</string>
+    <string name="btn_calculate">Посчитать</string>
+    <string name="btn_generate_test">Сгенерировать текст</string>
+    <string name="history_title">История:</string>
+    <string name="error_empty_input">Пожалуйста, введите текст!</string>
+    <string name="history_format">\"%1$s\" => %2$d, %3$d, %4$d, %5$d</string>
+
+    <string-array name="test_sentences">
+        <item>Война началась 1 сентября. Грустно.</item>
+        <item>Привет, мир! Как твои дела сегодня?</item>
+        <item>Разработка под Android - это весело в 2026 году!</item>
+    </string-array>
+</resources>

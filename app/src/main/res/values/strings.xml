@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="hint_input_text">Enter text here</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_generate_test">Generate test sentence</string>
+    <string name="history_title">History:</string>
+    <string name="error_empty_input">Please enter some text!</string>
+    <string name="history_format">\"%1$s\" => %2$d, %3$d, %4$d, %5$d</string>
+
+    <string-array name="test_sentences">
+        <item>The war started on September 1. Sad.</item>
+        <item>Hello, world! How are you today?</item>
+        <item>Android development is fun in 2026!</item>
+    </string-array>
+</resources>
